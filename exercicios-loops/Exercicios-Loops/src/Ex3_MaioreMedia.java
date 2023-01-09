@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex3_MaioeMedia {
+public class Ex3_MaioreMedia {
  
     public static void main(String[] args) {
         
